@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8b369630-5e42-4e00-84d7-43000e72ed7c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4" />
+  <component name="ProjectId" id="1gOPBHJg976GWLmNwNptqStFuRU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8b369630-5e42-4e00-84d7-43000e72ed7c" name="Default Changelist" comment="" />
+      <created>1597982528633</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597982528633</updated>
+      <workItem from="1597982529702" duration="10576000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="358" y="26" key="#PHP" timestamp="1597982570315">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state x="358" y="26" key="#PHP/0.0.1304.768@0.0.1304.768" timestamp="1597982570315" />
+    <state x="485" y="306" key="NewPhpFileDialog" timestamp="1597990455075">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state x="485" y="306" key="NewPhpFileDialog/0.0.1304.768@0.0.1304.768" timestamp="1597990455075" />
+    <state x="359" y="117" width="585" height="534" key="find.popup" timestamp="1597999331559">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state x="359" y="117" width="585" height="534" key="find.popup/0.0.1304.768@0.0.1304.768" timestamp="1597999331559" />
+    <state x="308" y="172" key="run.anything.popup" timestamp="1597996570107">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state x="308" y="172" key="run.anything.popup/0.0.1304.768@0.0.1304.768" timestamp="1597996570107" />
+  </component>
+</project>
