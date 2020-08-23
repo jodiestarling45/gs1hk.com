@@ -1,0 +1,179 @@
+.header-top{
+    background-color: #f4f4f4;
+    height: 135px;
+    width: 100%;
+}
+.logo{
+    margin-top: 45px;
+    float: left;
+}
+#logo-hk{
+    width: 140px;
+    height: 60px;
+    border: 0;
+    margin-left: 70px;
+    display: inline-block;
+}
+strong{
+    font-weight: bold;
+}
+#large{
+    font-size: 18px;
+    line-height: 20px;
+    position: relative;
+    top: 3px;
+    margin-left: 180px;
+}
+.box-logo{
+    position: relative;
+    display: inline-block;
+}
+.box-logo .logo{
+    position: absolute;
+    z-index: 999;
+}
+.row-1{
+    margin-top: 25px;
+    margin-left: 430px;
+}
+#chinese{
+    color: black;
+}
+.row-2{
+    float: right;
+    margin-right: 80px;
+}
+#direct{
+    height: 30px;
+    position: relative;
+    left: 0;
+    background: #fff;
+    border: 1px solid #b1b3b3;
+    padding: 5px;
+    color: #f26334;
+    border-left: 0;
+    padding-right: 8px;
+    padding-left: 7px;
+    font-size: 16px;
+    box-shadow: inset 0 1px 1px rgba(0,0,0,0.075);
+    -webkit-transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+    transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+}
+
+.barcode a {
+    padding-left: 78px;
+    padding-right: 55px;
+    color: white;
+    font-size: 19px;
+}
+.barcode{
+    display: inline-block;
+    background-color: orangered;
+}
+
+.row-3{
+    margin-top: 10px;
+    float: right;
+    margin-right: 80px;
+}
+#search-box{
+    width: 180px;
+}
+.row-3-element{
+    float: right;
+}
+#search-bar{
+    margin-right: 20px;
+}
+/* nav bar css */
+.navbar-background{
+    background: url("https://www.gs1hk.org/sites/default/files/media_plus/event/2019/AP%20Forum/GS1_APRF_2019_Weblider20190924.jpg");
+    position: relative;
+    text-align: center;
+    color: white;
+}
+.top-left {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+}
+.navbar{
+    margin-left: 50px;
+}
+#background-navbar{
+    width: 100%;
+}
+.nav-item a{
+    color: #002c6c;
+    font-size: 18px;
+    padding-left: 0;
+    padding-right: 0;
+}
+.nav-link{
+    color: #002c6c;
+}
+/* main css */
+.social span{
+    padding-top: 8px;
+    padding-right: 10px;
+    color: #002c6c;
+}
+h1{
+    color: #002c6c;
+}
+.main-page-content{
+    margin-top: 20px;
+    margin-left: 50px;
+}
+.social{
+    margin-top: 30px;
+    margin-left: 50px;
+    font-size: 20px;
+}
+li a:hover{
+    margin-bottom: 1px ;
+    color: #002c6c;
+    border-color: transparent;
+    margin-right: 2px;
+    line-height: 1.42857143;
+    border: 1px solid transparent;
+    border-radius: 0;
+}
+#main-navbar ul li {
+    margin-right: 2px;
+    line-height: 1.42857143;
+    border: 1px solid transparent;
+    border-radius: 0;
+    padding-right: 12px;
+}
+.navbar-nav li{
+    float: left;
+    margin-bottom: -1px;
+}
+/* edit main page deep live */
+.main-page{
+    border-style: groove;
+}
+.content{
+
+}
+/* bottom bar */
+.col1{
+    float: left;
+    padding-left: 40px;
+    margin-top: 40px;
+}
+.email-box p{
+    float: left;
+}
+#email-bar{
+    margin-right: 30px;
+}
+.panel-heading{
+    border-top: 5px solid darkblue;
+    border-style: groove;
+}
+.collapsed{
+    font-size: 23px;
+    color: #002c6c;
+}
