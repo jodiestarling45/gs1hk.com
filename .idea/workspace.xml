@@ -14,6 +14,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -38,7 +39,10 @@
       <option name="presentableId" value="Default" />
       <updated>1598011540628</updated>
       <workItem from="1598011542021" duration="2881000" />
-      <workItem from="1598067867466" duration="21496000" />
+      <workItem from="1598067867466" duration="21857000" />
+      <workItem from="1598251838575" duration="14847000" />
+      <workItem from="1598320148873" duration="30270000" />
+      <workItem from="1598407643735" duration="7666000" />
     </task>
     <servers />
   </component>
@@ -50,17 +54,33 @@
       <screen x="0" y="0" width="1304" height="768" />
     </state>
     <state x="358" y="26" key="#PHP/0.0.1304.768@0.0.1304.768" timestamp="1598011647773" />
-    <state x="485" y="306" key="NewPhpFileDialog" timestamp="1598011590013">
+    <state x="485" y="306" key="NewPhpFileDialog" timestamp="1598259544711">
       <screen x="0" y="0" width="1304" height="768" />
     </state>
-    <state x="485" y="306" key="NewPhpFileDialog/0.0.1304.768@0.0.1304.768" timestamp="1598011590013" />
-    <state x="152" y="28" key="SettingsEditor" timestamp="1598189210771">
+    <state x="485" y="306" key="NewPhpFileDialog/0.0.1304.768@0.0.1304.768" timestamp="1598259544711" />
+    <state x="57" y="0" key="SettingsEditor" timestamp="1598332569573">
       <screen x="0" y="0" width="1304" height="768" />
     </state>
-    <state x="152" y="28" key="SettingsEditor/0.0.1304.768@0.0.1304.768" timestamp="1598189210771" />
-    <state x="315" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1598115070926">
+    <state x="57" y="0" key="SettingsEditor/0.0.1304.768@0.0.1304.768" timestamp="1598332569573" />
+    <state x="588" y="0" width="716" height="768" key="find.popup" timestamp="1598411970059">
       <screen x="0" y="0" width="1304" height="768" />
     </state>
-    <state x="315" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1304.768@0.0.1304.768" timestamp="1598115070926" />
+    <state x="588" y="0" width="716" height="768" key="find.popup/0.0.1304.768@0.0.1304.768" timestamp="1598411970059" />
+    <state x="315" y="89" width="840" height="678" key="search.everywhere.popup" timestamp="1598411726193">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state x="315" y="89" width="840" height="678" key="search.everywhere.popup/0.0.1304.768@0.0.1304.768" timestamp="1598411726193" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/js/router.js</url>
+          <line>118</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

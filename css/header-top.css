@@ -105,7 +105,7 @@ strong{
 }
 .nav-item a{
     color: #002c6c;
-    font-size: 18px;
+    font-size: 20px;
     padding-left: 0;
     padding-right: 0;
 }
@@ -154,6 +154,10 @@ li a:hover{
 .main-page{
     border-style: groove;
 }
+.collapsed{
+    font-size: 23px;
+    color: #002c6c;
+}
 .content{
 
 }
@@ -170,10 +174,22 @@ li a:hover{
     margin-right: 30px;
 }
 .panel-heading{
-    border-top: 5px solid darkblue;
+    border-top: 10px solid darkblue;
     border-style: groove;
 }
-.collapsed{
-    font-size: 23px;
-    color: #002c6c;
+.nav-link:hover{
+    border-top-color: orangered;
+    border-top: 5px solid orangered;
+    color: orangered;
+}
+.tab{
+    font-size: 20px;
+    color: darkblue;
+}
+.tab:hover{
+    display: block;
+    border-top: 5px solid orangered;
+    border-left-style: groove;
+    border-right-style: groove;
+    color: blue;
 }
